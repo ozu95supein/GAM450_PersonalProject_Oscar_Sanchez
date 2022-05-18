@@ -19,6 +19,15 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "DBJson",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/64d40a8dc7e44719839fb97ff6337110"
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	]
 }
