@@ -1,1 +1,17 @@
-[]
+{
+	"NPC_ID" : 1,
+	"NPC_NAME" : "Frank the Guard",
+	"NPC_TRAITS" : 
+	[
+		{ "TRAIT_NAME" : "Aggression", "TRAIT_VALUE" : 0.7 },
+		{ "TRAIT_NAME" : "Caution", "TRAIT_VALUE" : 0.3 },
+		{ "TRAIT_NAME" : "Bravery", "TRAIT_VALUE" : 0.8 },
+		{ "TRAIT_NAME" : "Honesty", "TRAIT_VALUE" : 0.9 },
+		{ "TRAIT_NAME" : "Kindness", "TRAIT_VALUE" : 0.9 },
+		{ "TRAIT_NAME" : "Charisma", "TRAIT_VALUE" : 0.4 },
+		{ "TRAIT_NAME" : "Brawn", "TRAIT_VALUE" : 0.9 },
+		{ "TRAIT_NAME" : "Agility", "TRAIT_VALUE" : 0.2 },
+		{ "TRAIT_NAME" : "Intelligence", "TRAIT_VALUE" : 0.3 }
+	],
+	"NPC_STORYARC_NAME" : "TakeDownMafia"
+}
