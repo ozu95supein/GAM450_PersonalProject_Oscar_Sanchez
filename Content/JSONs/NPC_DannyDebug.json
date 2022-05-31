@@ -13,6 +13,6 @@
 		 "Brawn" : 0.6 ,
 		 "Agility" : 0.6 ,
 		 "Intelligence" : 0.6 },
-	"NPC_StoryIntroDuction" : "Hello there, I am trying to get my buddy John out of Jail",
-	"NPC_STORYARC_NAME" : "Debug_Jailbreak"
+	"NPC_STORYARC_NAME" : "Debug_Jailbreak",
+	"NPC_StoryIntroduction" : "Hello there, I am trying to get my buddy John out of Jail"
 }
