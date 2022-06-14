@@ -1,6 +1,6 @@
 {
-  "node0" : 
-  {
+    "node0" : 
+    {
 		"NODE_NAME" : "DebugStoryStart",
 		"NODE_ID" : 0,
 		"NODE_STORYARC" : "Debug_Jailbreak",
@@ -8,9 +8,12 @@
 		"isGoalNODE" : false,
 		"NODE_DESCRIPTION" : "DEBUG: Your Buddy is in jail, he wants you to get him out",
 		"NODE_APPLICABLE_TRAITS" : {},
-		"NODE_CHILD_STORY_CHOICES" : {"OPTION_0":1, 
-										OPTION_1":2,
-										OPTION_2": 3}
+		"NODE_CHILD_STORY_CHOICES" : 
+		{
+			"OPTION_0" : 1, 
+			"OPTION_1" : 2,
+			"OPTION_2" : 3
+		}
 	},
 	"node1" : 
     {
@@ -29,7 +32,10 @@
 			"Kindness" : 0.1,
 			"Brawn" : 0.8
 		},
-		"NODE_CHILD_STORY_CHOICES" : [4]
+		"NODE_CHILD_STORY_CHOICES" : 
+		{
+			"OPTION_0" : 4 
+		}
 	},
 	"node2" : 
     {
@@ -48,7 +54,10 @@
 			"Kindness" : 0.7,
 			"Agility" : 0.8
 		},
-		"NODE_CHILD_STORY_CHOICES" : [4]
+		"NODE_CHILD_STORY_CHOICES" : 
+		{
+			"OPTION_0" : 5 
+		}
 	},
 	"node3" : 
     {
@@ -67,7 +76,10 @@
 			"Generosity" : 0.9,
 			"Charisma" : 0.6
 		},
-		"NODE_CHILD_STORY_CHOICES" : [4, 5, 6]
+		"NODE_CHILD_STORY_CHOICES" : 
+		{
+			"OPTION_0" : 6 
+		}
 	},
 	"node4" : 
     {
@@ -91,7 +103,7 @@
 			"Agility" : 0.6,
 			"Intelligence" : 0.6
 		},
-		"NODE_CHILD_STORY_CHOICES" : []
+		"NODE_CHILD_STORY_CHOICES" : {}
 	},
 	"node5" : 
     {
@@ -115,7 +127,7 @@
 			"Agility" : 0.6,
 			"Intelligence" : 0.6
 		},
-		"NODE_CHILD_STORY_CHOICES" : []
+		"NODE_CHILD_STORY_CHOICES" : {}
 	},
 	"node6" : 
     {
@@ -139,6 +151,6 @@
 			"Agility" : 0.6,
 			"Intelligence" : 0.6
 		},
-		"NODE_CHILD_STORY_CHOICES" : []
+		"NODE_CHILD_STORY_CHOICES" : {}
 	}
 }
