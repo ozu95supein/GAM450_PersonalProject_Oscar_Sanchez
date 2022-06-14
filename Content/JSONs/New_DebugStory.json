@@ -7,8 +7,10 @@
 		"NODE_STORY_PATH" : "Not Applicable",
 		"isGoalNODE" : false,
 		"NODE_DESCRIPTION" : "DEBUG: Your Buddy is in jail, he wants you to get him out",
-		"NODE_APPLICABLE_TRAITS" : null,
-		"NODE_CHILD_STORY_CHOICES" : [1, 2, 3]
+		"NODE_APPLICABLE_TRAITS" : {},
+		"NODE_CHILD_STORY_CHOICES" : {"OPTION_0":1, 
+										OPTION_1":2,
+										OPTION_2": 3}
 	},
 	"node1" : 
     {
