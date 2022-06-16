@@ -1,0 +1,75 @@
+{
+    "node0" : 
+    {
+		
+	},
+	"node1" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.2,
+		"Bravery" : 0.8,
+		"Lawfulness" : 0.1,
+		"Kindness" : 0.1,
+		"Brawn" : 0.8
+	},
+	"node2" : 
+    {
+		"Aggression" : 0.7,
+		"Caution" : 0.3,
+		"Bravery" : 0.8,
+		"Lawfulness" : 0.3,
+		"Kindness" : 0.7,
+		"Agility" : 0.8	
+	},
+	"node3" : 
+    {
+		"Aggression" : 0.1,
+		"Caution" : 0.8,
+		"Lawfulness" : 0.8,
+		"Kindness" : 0.9,
+		"Generosity" : 0.9,
+		"Charisma" : 0.6
+	},
+	"node4" : 
+    {
+		"Aggression" : 0.6,
+		"Caution" : 0.6,
+		"Bravery" : 0.6,
+		"Honesty" : 0.6,
+		"Lawfulness" : 0.6,
+		"Kindness" : 0.6,
+		"Generosity" : 0.6,
+		"Charisma" : 0.6,
+		"Brawn" : 0.6,
+		"Agility" : 0.6,
+		"Intelligence" : 0.6
+	},
+	"node5" : 
+    {
+		"Aggression" : 0.6,
+		"Caution" : 0.6,
+		"Bravery" : 0.6,
+		"Honesty" : 0.6,
+		"Lawfulness" : 0.6,
+		"Kindness" : 0.6,
+		"Generosity" : 0.6,
+		"Charisma" : 0.6,
+		"Brawn" : 0.6,
+		"Agility" : 0.6,
+		"Intelligence" : 0.6
+	},
+	"node6" : 
+    {
+		"Aggression" : 0.6,
+		"Caution" : 0.6,
+		"Bravery" : 0.6,
+		"Honesty" : 0.6,
+		"Lawfulness" : 0.6,
+		"Kindness" : 0.6,
+		"Generosity" : 0.6,
+		"Charisma" : 0.6,
+		"Brawn" : 0.6,
+		"Agility" : 0.6,
+		"Intelligence" : 0.6
+	}
+}

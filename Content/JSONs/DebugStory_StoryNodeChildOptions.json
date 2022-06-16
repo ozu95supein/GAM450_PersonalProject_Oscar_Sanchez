@@ -1,0 +1,32 @@
+{
+    "node0" : 
+    {
+		"OPTION_0" : 1, 
+		"OPTION_1" : 2,
+		"OPTION_2" : 3
+	},
+	"node1" : 
+    {
+		"OPTION_0" : 4 
+	},
+	"node2" : 
+    {
+		"OPTION_0" : 5 
+	},
+	"node3" : 
+    {
+		"OPTION_0" : 6 
+	},
+	"node4" : 
+    {
+		
+	},
+	"node5" : 
+    {
+		
+	},
+	"node6" : 
+    {
+		
+	}
+}
