@@ -1,0 +1,57 @@
+{
+    "node0" : 
+    {
+		"NODE_NAME" : "Start Situation",
+		"NODE_ID" : 0,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Tony needs to get John out of Jail. Press Continue to progress the story"
+	},
+	"node1" : 
+    {
+		"NODE_NAME" : "More Explanations",
+		"NODE_ID" : 1,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Tony will make a decision on his own based on his Traits (Look Right) which you can alter and save"
+	},
+	"node2" : 
+    {
+		"NODE_NAME" : "Time for a Decision",
+		"NODE_ID" : 2,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Tony has 3 options to get John out (See below). Tony will choose different options depending on his currently saved traits"
+	},
+	"node3" : 
+    {
+		"NODE_NAME" : "Kill The Guards",
+		"NODE_ID" : 3,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "KillerPath",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Based on his Traits, you are on the Killer Path. Tony decided to Kill the Guards and break John out"
+	},
+	"node4" : 
+    {
+		"NODE_NAME" : "Sneak In And Break John Out",
+		"NODE_ID" : 4,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Scoundrel Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Based on his Traits, you are on the Scoundrel Path. Tony decided to Kill the Guards and break John out"
+	},
+	"node5" : 
+    {
+		"NODE_NAME" : "Pay John's Bail Money",
+		"NODE_ID" : 5,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Good Citizen Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Based on his Traits, you are on the Good Citizen Path. Tony decided pay John's Bail money"
+	},
+	
+}

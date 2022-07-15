@@ -1,0 +1,17 @@
+{
+	"NPC_ID" : 3,
+	"NPC_NAME" : "Tony Tutorial",
+	"NPC_TRAITS" : 
+	{ "Aggression" : 0.6 ,
+		 "Caution" : 0.6 ,
+		 "Bravery" : 0.6 ,
+		 "Honesty" : 0.6 ,
+		 "Lawfulness" : 0.6 ,
+		 "Kindness" : 0.6 ,
+		 "Generosity" : 0.6 ,
+		 "Charisma" : 0.6 ,
+		 "Brawn" : 0.6 ,
+		 "Agility" : 0.6 ,
+		 "Intelligence" : 0.6 },
+	"NPC_StoryIntroduction" : "I need to get my buddy out of jail. I need you to tell me how to do it. Press NEXT to start"
+}
