@@ -31,7 +31,7 @@
 		"NODE_NAME" : "Kill The Guards",
 		"NODE_ID" : 3,
 		"NODE_STORYARC" : "Jailbreak",
-		"NODE_STORY_PATH" : "KillerPath",
+		"NODE_STORY_PATH" : "Killer Path",
 		"isGoalNODE" : false,
 		"NODE_DESCRIPTION" : "Based on his Traits, you are on the Killer Path. Tony decided to Kill the Guards and break John out"
 	},
@@ -53,5 +53,58 @@
 		"isGoalNODE" : false,
 		"NODE_DESCRIPTION" : "Based on his Traits, you are on the Good Citizen Path. Tony decided pay John's Bail money"
 	},
-	
+	"node6" : 
+    {
+		"NODE_NAME" : "Killer Ending",
+		"NODE_ID" : 6,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "KillerPath",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Tony and Johnny have killed the guards and fought their way out of Prison"
+	},
+	"node7" : 
+    {
+		"NODE_NAME" : "Scoundrel Ending",
+		"NODE_ID" : 7,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Scoundrel Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Tony and Johnny have escaped and are on the run, but no one has gotten hurt"
+	},
+	"node8" : 
+    {
+		"NODE_NAME" : "Good Citizen Ending",
+		"NODE_ID" : 8,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Good Citizen Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "Tony pays the fine and John gets let out of jail legally"
+	},
+	"node9" : 
+    {
+		"NODE_NAME" : "Final Killer Ending",
+		"NODE_ID" : 9,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Killer Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "You have convinced Tony to take the Killer Ending, you can try different Traits to get different endings"
+	},
+	"node10" : 
+    {
+		"NODE_NAME" : "Final Scoundrel Ending",
+		"NODE_ID" : 10,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Scoundrel Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "You have convinced Tony to take the Scoundrel Ending, you can try different Traits to get different endings"
+	},
+	"node11" : 
+    {
+		"NODE_NAME" : "Final Good Ending",
+		"NODE_ID" : 11,
+		"NODE_STORYARC" : "Jailbreak",
+		"NODE_STORY_PATH" : "Good Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "You have convinced Tony to take the Good Ending, you can try different Traits to get different endings"
+	}
 }

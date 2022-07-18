@@ -1,0 +1,53 @@
+{
+    "node0" : 
+    {
+		
+	},
+	"node1" : 
+    {
+		
+	},
+	"node2" : 
+    {
+		
+	},
+	"node3" : 
+    {
+		"Lawfulness" : 0.1,
+		"Kindness" : 0.1
+	},
+	"node4" : 
+    {
+		"Lawfulness" : 0.1,
+		"Kindness" : 0.9
+	},
+	"node5" : 
+    {
+		"Lawfulness" : 0.9,
+		"Kindness" : 0.9
+	},
+	"node6" : 
+    {
+			
+	},
+	"node7" : 
+    {
+			
+	},
+	"node8" : 
+    {
+			
+	},
+	"node9" : 
+    {
+			
+	},
+	"node10" : 
+    {
+			
+	},
+	"node11" : 
+    {
+			
+	}
+}
