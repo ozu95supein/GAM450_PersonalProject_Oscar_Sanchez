@@ -1,0 +1,209 @@
+{
+    "node0" : 
+    {
+		"NODE_NAME" : "Begin to Fight Mafia",
+		"NODE_ID" : 0,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "There is a Mafia in the city, and they wish to defeat it"
+	},
+	"node1" : 
+    {
+		"NODE_NAME" : "Infiltrate Mafia",
+		"NODE_ID" : 1,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They infiltrate the Mafia as one of their own"
+	},
+	"node2" : 
+    {
+		"NODE_NAME" : "Become a Vigilante",
+		"NODE_ID" : 2,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They take justice into their own hands, but in their own way"
+	},
+	"node3" : 
+    {
+		"NODE_NAME" : "Join the Guards",
+		"NODE_ID" : 3,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They join the city guards despite rumors of corruption"
+	},
+	"node4" : 
+    {
+		"NODE_NAME" : "Become a Mole",
+		"NODE_ID" : 4,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They infiltrate the Mafia and report on their activities"
+	},
+	"node5" : 
+    {
+		"NODE_NAME" : "Hostile Takeover",
+		"NODE_ID" : 5,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They try to become the leaders of the Mafia "
+	},
+	"node6" : 
+    {
+		"NODE_NAME" : "Lethal Vigilante",
+		"NODE_ID" : 6,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They become a Vigilante with no hesitation for Violence"
+	},
+	"node7" : 
+    {
+		"NODE_NAME" : "Non-Lethal Vigilante",
+		"NODE_ID" : 7,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They become a benevolent Vigilante who doesn't kill"
+	},
+	"node8" : 
+    {
+		"NODE_NAME" : "Quit and become corrupt",
+		"NODE_ID" : 8,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "It's too hard, they give in and become a part of the corrupt system"
+	},
+	"node9" : 
+    {
+		"NODE_NAME" : "Quit and become a Vigilante",
+		"NODE_ID" : 9,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They quit the City Guard to take matters into their own hands"
+	},
+	"node10" : 
+    {
+		"NODE_NAME" : "Continue to work",
+		"NODE_ID" : 10,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They try their best to work despite the corruption surrounding them"
+	},
+	"node11" : 
+    {
+		"NODE_NAME" : "Try to fix the corruption issues",
+		"NODE_ID" : 11,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : false,
+		"NODE_DESCRIPTION" : "They try to fix the corruption inside the City Guard and clean house"
+	},
+	"node12" : 
+    {
+		"NODE_NAME" : "Get discovered as a Mole",
+		"NODE_ID" : 12,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They get found out as an informant, and will probably be sleeping with the fishes"
+	},
+	"node13" : 
+    {
+		"NODE_NAME" : "Stay hidden and report",
+		"NODE_ID" : 13,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They continue to snitch, and eventually the Mafia leaders are arrested"
+	},
+	"node14" : 
+    {
+		"NODE_NAME" : "Successful Takeover",
+		"NODE_ID" : 14,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They are now the head of the new Mafia in town, they are the Boss"
+	},
+	"node15" : 
+    {
+		"NODE_NAME" : "Failed Takeover",
+		"NODE_ID" : 15,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Criminal Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They have failed to take control of the organization and are in deep trouble"
+	},
+	"node16" : 
+    {
+		"NODE_NAME" : "Failed Lethal Vigilante",
+		"NODE_ID" : 16,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They failed to defeat the Mafia and are in deep trouble."
+	},
+	"node17" : 
+    {
+		"NODE_NAME" : "Success Lethal Vigilante",
+		"NODE_ID" : 17,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They have killed the Mafia Boss and the other leaders, the organization is destroyed"
+	},
+	"node18" : 
+    {
+		"NODE_NAME" : "Failed Vigilante",
+		"NODE_ID" : 18,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They failed to defeat the Mafia and are in deep trouble."
+	},
+	"node19" : 
+    {
+		"NODE_NAME" : "Successful Vigilante",
+		"NODE_ID" : 19,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Vigilante Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They have defeated the Mafia and gotten all of their members arrested"
+	},
+	"node20" : 
+    {
+		"NODE_NAME" : "Fail and die",
+		"NODE_ID" : 20,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They are betrayed by their comrades and they end up dead"
+	},
+	"node21" : 
+    {
+		"NODE_NAME" : "Succeed despite corruption",
+		"NODE_ID" : 21,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "Despite the difficulties and obstacles, they manage to arrest some members of the Mafia"
+	},
+	"node22" : 
+    {
+		"NODE_NAME" : "Succeed and fix Corruption",
+		"NODE_ID" : 22,
+		"NODE_STORYARC" : "Defeat the Mafia",
+		"NODE_STORY_PATH" : "Justice Path",
+		"isGoalNODE" : true,
+		"NODE_DESCRIPTION" : "They arrest members of the Mafia, along with dirty cops working for them."
+	}
+}

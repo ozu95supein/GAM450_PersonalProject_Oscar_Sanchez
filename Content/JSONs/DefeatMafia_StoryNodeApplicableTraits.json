@@ -1,0 +1,204 @@
+{
+    "node0" : 
+    {
+		
+	},
+	"node1" : 
+    {
+		"Aggression" : 0.4,
+		"Caution" : 0.3,
+		"Bravery" : 0.4,
+		"Honesty" : 0.2,
+		"Lawfulness" : 0.1 
+	},
+	"node2" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.1,
+		"Bravery" : 0.9,
+		"Honesty" : 0.7,
+		"Lawfulness" : 0.2
+	},
+	"node3" : 
+    {
+		"Aggression" : 0.7,
+		"Caution" : 0.6,
+		"Bravery" : 0.8,
+		"Honesty" : 0.8,
+		"Lawfulness" : 0.9
+	},
+	"node4" : 
+    {
+		"Aggression" : 0.1,
+		"Caution" : 0.6,
+		"Bravery" : 0.4,
+		"Honesty" : 0.1,
+		"Lawfulness" : 0.6,
+		"Kindness" : 0.5,
+	},
+	"node5" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.4,
+		"Bravery" : 0.8,
+		"Honesty" : 0.1,
+		"Lawfulness" : 0.1,
+		"Kindness" : 0.1
+	},
+	"node6" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.4,
+		"Bravery" : 0.8,
+		"Lawfulness" : 0.3,
+		"Kindness" : 0.4
+	},
+	"node7" : 
+    {
+		"Aggression" : 0.4,
+		"Caution" : 0.3,
+		"Bravery" : 0.9,
+		"Lawfulness" : 0.5,
+		"Kindness" : 0.7
+	},
+	"node8" : 
+    {
+		"Aggression" : 0.1,
+		"Caution" : 0.9,
+		"Bravery" : 0.1,
+		"Honesty" : 0.3 ,
+		"Lawfulness" : 0.3
+	},
+	"node9" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.2,
+		"Bravery" : 0.8,
+		"Honesty" : 0.6,
+		"Lawfulness" : 0.5,
+		"Kindness" : 0.3
+	},
+	"node10" : 
+    {
+		"Aggression" : 0.6,
+		"Caution" : 0.8,
+		"Bravery" : 0.7,
+		"Honesty" : 0.6,
+		"Lawfulness" : 0.8,
+		"Kindness" : 0.6,
+		"Intelligence" : 0.1
+	},
+	"node11" : 
+    {
+		"Aggression" : 0.8,
+		"Caution" : 0.6,
+		"Bravery" : 0.8,
+		"Honesty" : 0.7,
+		"Lawfulness" : 0.9,
+		"Kindness" : 0.4,
+		"Intelligence" : 0.9
+	},
+	"node12" : 
+    {
+		"Caution" : 0.3,
+		"Honesty" : 0.4,
+		"Charisma" : 0.1,
+		"Intelligence" : 0.2
+	},
+	"node13" : 
+    {
+		"Caution" : 0.6,
+		"Honesty" : 0.1,
+		"Charisma" : 0.9,
+		"Intelligence" : 0.8
+	},
+	"node14" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.7,
+		"Honesty" : 0.1,
+		"Kindness" : 0.1,
+		"Charisma" : 0.9,
+		"Agility" : 0.9,
+		"Intelligence" : 0.9
+	},
+	"node15" : 
+    {
+		"Aggression" : 0.4,
+		"Caution" : 0.4,
+		"Honesty" : 0.6,
+		"Kindness" : 0.6,
+		"Charisma" : 0.1,
+		"Agility" : 0.1,
+		"Intelligence" : 0.1
+	},
+	"node16" : 
+    {
+		"Aggression" : 0.1,
+		"Caution" : 0.1,
+		"Kindness" : 0.6,
+		"Brawn" : 0.1,
+		"Agility" : 0.1,
+		"Intelligence" : 0.1
+	},
+	"node17" : 
+    {
+		"Aggression" : 0.9,
+		"Caution" : 0.9,
+		"Kindness" : 0.1,
+		"Brawn" : 0.9,
+		"Agility" : 0.7,
+		"Intelligence" : 0.6
+	},
+	"node18" : 
+    {
+		"Aggression" : 0.1,
+		"Caution" : 0.1,
+		"Kindness" : 0.1,
+		"Brawn" : 0.1,
+		"Agility" : 0.1,
+		"Intelligence" : 0.1
+	},
+	"node19" : 
+    {
+		"Aggression" : 0.7,
+		"Caution" : 0.8,
+		"Kindness" : 0.8,
+		"Brawn" : 0.6,
+		"Agility" : 0.8,
+		"Intelligence" : 0.9
+	},
+	"node20" : 
+    {
+		"Aggression" : 0.1,
+		"Caution" : 0.1,
+		"Lawfulness" : 0.6,
+		"Kindness" : 0.8,
+		"Charisma" : 0.2,
+		"Brawn" : 0.2,
+		"Agility" : 0.2,
+		"Intelligence" : 0.2
+	},
+	"node21" : 
+    {
+		"Aggression" : 0.6,
+		"Caution" : 0.9,
+		"Lawfulness" : 0.8,
+		"Kindness" : 0.6,
+		"Charisma" : 0.9,
+		"Brawn" : 0.9,
+		"Agility" : 0.6,
+		"Intelligence" : 0.6
+	},
+	"node22" : 
+    {
+		"Aggression" : 0.8,
+		"Caution" : 0.8,
+		"Lawfulness" : 0.9,
+		"Kindness" : 0.4,
+		"Charisma" : 0.9,
+		"Brawn" : 0.6,
+		"Agility" : 0.6,
+		"Intelligence" : 0.9
+	}
+}
