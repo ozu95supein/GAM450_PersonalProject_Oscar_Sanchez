@@ -1,6 +1,6 @@
 {
 	"NPC_ID" : 4,
-	"NPC_NAME" : "Cris",
+	"NPC_NAME" : "Cris Gordon",
 	"NPC_TRAITS" : 
 	{ "Aggression" : 0.8 ,
 		 "Caution" : 0.8 ,

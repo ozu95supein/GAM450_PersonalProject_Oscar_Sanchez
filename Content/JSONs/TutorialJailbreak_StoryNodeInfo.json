@@ -58,7 +58,7 @@
 		"NODE_NAME" : "Killer Ending",
 		"NODE_ID" : 6,
 		"NODE_STORYARC" : "Jailbreak",
-		"NODE_STORY_PATH" : "KillerPath",
+		"NODE_STORY_PATH" : "Killer Path",
 		"isGoalNODE" : false,
 		"NODE_DESCRIPTION" : "Tony and Johnny have killed the guards and fought their way out of Prison"
 	},
@@ -103,7 +103,7 @@
 		"NODE_NAME" : "Final Good Ending",
 		"NODE_ID" : 11,
 		"NODE_STORYARC" : "Jailbreak",
-		"NODE_STORY_PATH" : "Good Path",
+		"NODE_STORY_PATH" : "Good Citizen Path",
 		"isGoalNODE" : true,
 		"NODE_DESCRIPTION" : "You have convinced Tony to take the Good Ending, you can try different Traits to get different endings"
 	}
